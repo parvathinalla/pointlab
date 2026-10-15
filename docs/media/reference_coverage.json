@@ -1,0 +1,26 @@
+{
+  "experiment": "geometric_reference_coverage",
+  "seed": 42,
+  "point_count": 5999,
+  "centers": 64,
+  "source": "procedural_synthetic_scene",
+  "methods": {
+    "fps": {
+      "coverage_m": {
+        "mean_m": 3.4928,
+        "p95_m": 5.5597,
+        "max_m": 6.8316
+      },
+      "sample_time_ms_local": 4.487
+    },
+    "random": {
+      "coverage_m": {
+        "mean_m": 3.3853,
+        "p95_m": 8.7911,
+        "max_m": 15.6726
+      },
+      "sample_time_ms_local": 0.123
+    }
+  },
+  "interpretation": "Lower nearest-center distance is better. These are not learned-model or driving benchmarks."
+}

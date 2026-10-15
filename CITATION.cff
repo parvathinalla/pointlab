@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use POINT//LAB in teaching or research, cite this repository and the original Point-BERT and nuScenes papers where relevant."
+title: "POINT//LAB: An Open 3D Perception Research Workbench"
+type: software
+authors:
+  - family-names: Nalla
+    given-names: Parvathi
+version: 0.2.0
+date-released: 2026-10-15
+license: MIT
+keywords:
+  - point cloud
+  - lidar
+  - computer vision
+  - geometric sampling
+  - reproducibility
